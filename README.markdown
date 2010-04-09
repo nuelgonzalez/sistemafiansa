@@ -1,7 +1,7 @@
-# The Ruby on Rails Tutorial sample application
+# Sistema de Facturación y guías Fiansa
 
-This is the sample application for the book 
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://www.railstutorial.org/) 
-by [Michael Hartl](http://www.michaelhartl.com/).
+Sistema de gestión de facturación y guías para la empresa
+[*Fiansa S.A.*](http://www.fiansa.com.pe/) 
+by Sistemas - Fiansa.
 
 
