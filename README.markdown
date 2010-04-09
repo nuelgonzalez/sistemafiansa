@@ -1,6 +1,7 @@
-# Sistema de Facturación y Guías para la empresa Fiansa S.A.
+# The Ruby on Rails Tutorial sample application
 
-Este es un pequeño sistema realizado en Ruby on Rails para la empresa [Fiansa] (http://www.fiansa.com.pe).
-Este sistema se encarga de generar los diferentes documentos de facturación (boletas, facturas, etc). Asimismo,
-permite generar y administrar el flujo de guías de remisión de la empresa.
+This is the sample application for the book 
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://www.railstutorial.org/) 
+by [Michael Hartl](http://www.michaelhartl.com/).
+
 
